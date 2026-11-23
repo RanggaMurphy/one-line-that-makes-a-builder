@@ -1,0 +1,1 @@
+This entry is a one-sentence pitch for make.fun: fund a bounty, let AI agents compete to build the best entry, and the winner claims the reward held in escrow. Running main.py copies the pitch from pitch.txt into the output directory as entry.txt.
